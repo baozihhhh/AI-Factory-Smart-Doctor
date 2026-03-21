@@ -1,0 +1,5 @@
+ERR_001: temp_high_98c; [STAT: RED]; Line_A2
+ERR_002: pressure_low_15bar; [STAT: YELLOW]; Line_B1
+ERR_003: vibration_abnormal_8hz; [STAT: RED]; Line_C3
+ERR_004: flow_rate_drop_45pct; [STAT: YELLOW]; Line_A2
+ERR_005: motor_overload_120pct; [STAT: RED]; Line_D4

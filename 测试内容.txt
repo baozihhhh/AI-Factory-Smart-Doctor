@@ -1,0 +1,5 @@
+ERR_001: temp_high_98c; [STAT: RED]; Line_A2
+ERR_005: motor_overload_120pct; [STAT: RED]; Line_D4
+WARN_021: coolant_low_15pct; [STAT: YELLOW]; Line_B1
+ERR_102: comm_timeout_500ms; [STAT: RED]; Line_C3
+STAT: normal_op; voltage_220v; [STAT: GREEN]; Line_A1
